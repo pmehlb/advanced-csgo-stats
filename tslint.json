@@ -1,0 +1,17 @@
+{
+  "defaultSeverity": "error",
+  "extends": [
+    "tslint:recommended"
+  ],
+  "jsRules": {
+    "no-console": false
+  },
+  "rules": {
+    "indent": [true, "tabs", 4],
+    "trailing-comma": [ false ],
+    "no-async-without-await": true,
+    "quotemark": [false, "double"],
+    "no-console": false
+  },
+  "rulesDirectory": []
+}
